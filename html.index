@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Mini Project A11</title>
+        <link rel="stylesheet" href="stylesheet.css">
+        <link rel="stylesheet" href="responsive.css">
+        <link rel="stylesheet" href="maxdcn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <div class="header-left">
+                    <img class="logo" src="pngwing.com.png">                              
+                </div>
+                <div class="header-center"><marquee behavior="" direction=""><h1>Dongeng Online</h1></marquee></div>   
+                <div class="header-right">
+                    <a href="#home">Home</a>
+                    <a href="#daftar">Daftar Buku</a>
+                    <a href="#tentang">Tentang</a>                
+                </div>         
+            </div>                    
+        </header>
+        <div class="top-wrapper" id="home">
+            <div class="container">
+                <div class="kotak">
+              <h1>Mari Bersama Membaca Dongeng</h1>
+              <h1>Kumpulan Dongeng dari Berbagai Wilayah</h1>
+              <p>Dongeng merupakan sebuah cerita khayalan atau sebuah cerita yang tidak benar-benar terjadi.</p>
+              <p>Banyak berbagai manfaat yang kita dapatkan dari membaca cerita dongeng seperti pendidikan, pesan moral, maupun pengetahuan mengenai kebudayaan dari berbagai wilayah baik dari dalam negri maupun dari luar negri.</p>
+              <p id="hubungi">Oleh karena itu web ini menyediakan berbagai dongeng yang memudahkan pembaca untuk menikmati berbagai cerita dari berbagai wilayah.</p>
+                </div><br>
+              <div class="btn-wrapper">
+                  <a href="#" class="btn signup">Hubungi kami jika ada yang ingin ditanyakan!</a><br><br>
+                  <a href="https://facebook.com" class="btn facebook"><span class="fa fa-facebook"></span>Facebook</a>
+                  <a href="https://twitter.com" class="btn twitter"><span class="fa fa-twitter">Twitter</span></a>
+              </div>
+            </div>
+        </div>
+        <main >
+            <div class="content-wrapper">
+                <div class="container-main">
+                    <div class="heading">
+                        <h2 id="daftar">Pilih Dongeng yang Diinginkan!</h2>
+                    </div>
+                    <div class="copy-heading1">
+                        <h3>Dongeng Berbahasa Indonesia</h3>
+                    </div>
+                    <div class="i-contents">
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="berburupisangemas.jpg"></div>
+                                <div class="content-title"><h4>Berburu Pisang Emas</h4></div>
+                                <div class="content-author"><p>-Aida Kania Lugina-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Setiap tahun, Raja Gorila mengadakan lomba "Berburu Pisang Emas". Hadiahnya sangat menggiurkan. Kahau, seekor bekantan, dan teman-temannya berlatih untuk mengikuti lomba itu. Begitu lincahnya mereka bergelantungan...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Selengkapnya...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="kibodanberuangmadu.jpg"></div>
+                                <div class="content-title"><h4>Kibo dan Beruang Madu</h4></div>
+                                <div class="content-author"><p>-Fika Nurhidayah-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Adikku sayang, adikku sayang; Pulanglah pulang; Jangan biarkan aku sendirian. Permainan Kibo seketika terhenti. Nyanyian yang ia dengar begitu sendu. Kibo terdiam mendengarkan. Rambut kribonya bergerak-gerak ditiup angin. "Oh, itu suara..."</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Selengkapnya...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="bungadanburungcenderawasih.jpg"></div>
+                                <div class="content-title"><h4>Bunga dan Burung Cenderawasih</h4></div>
+                                <div class="content-author"><p>-Ana P. Dewiyana-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Bunga, nama gadis kecil itu. Dia tinggal dengan kakek-neneknya di dekat hutan. Setiap pagi, Bunga berlari-lari di jalanan setapak sambil bernyanyi-nyanyi lagu Apuse. Seperti kali ini.... "Hei, Gadis Kecil! Kau selalu nyanyi lagu itu. Apa kau tidak..."</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Selengkapnya...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="komodoinginkepesta.jpg"></div>
+                                <div class="content-title"><h4>Komodo Ingin ke Pesta</h4></div>
+                                <div class="content-author"><p>-Imelda Naomi-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Suatu pagi, di padang rumput sabana, seekor Burung Koak Kiau bernyanyi riang. Ora si Komodo terbangun dari tidurnya. "Berisik sekali kau, Koak Kiau! Pagi-pagi sudah ribut bernyanyi!" Si Koak Kiau tersenyum. "Hari yang indah! Sayang dilewatkan, Kawan! Ayo, kita bermain!" ajak si KOak Kiau. Tetapi,...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Selengkapnya...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="ujungpelangi.jpg"></div>
+                                <div class="content-title"><h4>Ujung Pelangi</h4></div>
+                                <div class="content-author"><p>-Arif Hidayah-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Tanah, pohon, dan dedaunan basah. Sedari pagi hujan. Air yang jatuh di antara dedaunan begitu indah terlihat. Seekor burung berteduh di bawah sehelai daun lebar. Ooohh...rupanya itu Burung Maleo Senkawar. Tidak berapa lama...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Selengkapnya...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="misteritutulyanghilang.jpg"></div>
+                                <div class="content-title"><h4>Misteri Tutul yang Hilang</h4></div>
+                                <div class="content-author"><p>-Imelda Naomi-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>"Ayo, Teman-Teman! Kita mian tebak-tebakan! seru Ican, anak macan tutul yang tampan. "Ayo! Ayo! Ayo!' kata teman-temannya sambil bersorak-sorai gembira. Silih berganti teka-teki diajukan. Berlomba-lomba, mereka menebak jawabannya. Tiba giliran Ican...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Selengkapnya...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="sayapajaibengganggading.jpg"></div>
+                                <div class="content-title"><h4>Sayap Ajaib Enggang Gading</h4></div>
+                                <div class="content-author"><p>-Fika Nur Hidayah-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Jojo berlari kencang menuju hutan. Dia hendak menghadiri pesta ulang tahun Enggang Gading, sahabatnya. Setibanya di sana, Jojo melihat pohon tempat tinggal Enggang Gading dihiasi rangkaian bunga dan biji-bijian. Teman-teman penghuni hutan pun sudah berkumpul,...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Selengkapnya...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="tangkasiminidanbajuraksasa.jpg"></div>
+                                <div class="content-title"><h4>Tangkasi Mini dan Baju Raksasa</h4></div>
+                                <div class="content-author"><p>-Musa Qadarsyah-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Hup! Hup! Hup! Ola si Tangkasi melompat-lompat. Ia menjelajahi deretan kanopi hutan tempat tinggalnya. Ola tidak pernah pergi jauh. Tiba-tiba, Ola terhenti. Ia terkejut. Sebuah benda melayang dari angkasa. "Ada awan jatuh!" seru Ola. Ola segera menghampiri benda itu. Ia amati dari dekat. Disodoknya benda itu dengan ranting kayu. Tidak ada reaksi. Setelah merasa yakin,...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Selengkapnya...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="penyumputulung.jpg"></div>
+                                <div class="content-title"><h4>Penyumput Ulung</h4></div>
+                                <div class="content-author"><p>-Dessy Sekar Chamdi-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>"Tigris...Tigris...! Ayo, main!" seru Peta si Tupai. Sinar bulan purnama membuat bulu merahnya tampak berkilau. "Main apa?" tanya Tigris si Harimau. "Engklek saja, yuk!' ujar Peta. "Balangan," sahut Aris Kera. "Gasing," kata Yura Landa. "Mercon," kata Ava si Trenggiling tak mau ketinggalan. Masing masing bersikeras agar usulannya diterima. Tiba-tiba...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Selengkapnya...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="romelugajahsumatera.jpg"></div>
+                                <div class="content-title"><h4>Romelu Gajah Sumatra</h4></div>
+                                <div class="content-author"><p>-Muhammad Qushoy-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Siang itu, tampak Romelu Gajah bersama Riko Tupai, Moura Musang, dan Jaya Ayam Jago. "Teman-Teman, kita main petak umpet di sana, yuk!" ujar Romelu sambil menunjuk ke arah gua. Riko Tupai tampak gembira, tetapi Moura Musang dan Jaya Ayam Jago terlihat ragu. "Jangan dekati tempat itu, Romelu," kata Moura mengingatkan. "Banyak hewan yang hilang di sana." Iya, benar. Aku...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Selengkapnya...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="serunaisangrusatimor.jpg"></div>
+                                <div class="content-title"><h4>Serunai Sang Rusa Timor</h4></div>
+                                <div class="content-author"><p>-Dessy Sekar Chamdi-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Suittttt Suitttt! caca Kera bersiul riang. Ekor panjangnya melambai-lambai saat ia berjumpalitan. Di sebelahnya, Inong, seekor rusa timor yang cantik, berjalan anggun. "Nong, ayo kita kunjungi Gallus si Ayam Hutan. Orangtuanya membuat sarang baru di selatan sabana ini." "Oh,... pantas saja sarang di dekat pohon eboni kosong," sahut Inong. "Lewat jalan mana?" Kita coba..."..."</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Selengkapnya...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="sijalakputihbertualangdinegeriair.jpg"></div>
+                                <div class="content-title"><h4>Si Jalak Putih Bertualang di Negeri Air</h4></div>
+                                <div class="content-author"><p>-Rosida Erowati Irsyad-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>"Cuit, cuit, cuit! Hai Mongki! Sedang apa kau?" sapa Jalak Putih begitu melihat Mongki, si Monyet Kecil. Mongki hanya tersenyum. Di kejauhan, terlihat awan mendung berarak menuju hutan mereka. "Wah, tampakya sebentar lagi hujan turun. Mongki, ayo pulang!" ujar Jalak Putih. Mongki melompat-lompat, mendekatti Jalak Putih yang bertengger beberapa cabang lebih tinggi darinya. "Nanti, sebentar lagi, Jalak," kata Mongki. Mongki mulai berlompatan dari...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Selengkapnya...</a></div>                        
+                        </div>
+                    </div>
+                    <div class="copy-heading2">
+                        <h3>Dongeng Berbahasa Inggris</h3>
+                    </div>
+                    <div class="e-contents">
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="DimityDumpty.jpg"></div>
+                                <div class="content-title"><h4>Dimity Dumpty: The Story of Humpty's Little Sister</h4></div>
+                                <div class="content-author"><p>-Bob Graham-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Humpty Dumpty sat on a wall. Humpty Dumpty had a great fall. All the king's horses and all the king's men couldn't put Humpty together again. (Traditional nursery rhyme). Everyone knows the story of Humpty Dumpty. Not so many know the story of his little sister, Dimity. Now her story can be told...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Read more...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="frogprince.jpg"></div>
+                                <div class="content-title"><h4>The Frog Prince</h4></div>
+                                <div class="content-author"><p>-Miles Kelly-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Once, there lived a Princess called Molly, who lived in a grand castle. Every day, Princess Molly walked into the woods to play catch with her golden ball. Her favourite spot was near a well. One day, Molly was playing catch as usual. But she missed the ball and it bounched into the well with a splash. The Princess...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Read more...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="jack.jpg"></div>
+                                <div class="content-title"><h4>Jack and the Beanstalk</h4></div>
+                                <div class="content-author"><p>-Miles Kelly-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Jack and his mother were very poor. One day, Jack's mother said to him, "You must take the cow to market and sell her." They needed money to buy food. Jack hadn't gone far when he met an old man who offered to swap five beans for the cow. "Why would I do that?" asked Jack. "These beans are magic. Plant them at night and...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Read more...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="theelfandshoemaker.jpg"></div>
+                                <div class="content-title"><h4>The Elves and the Shoemaker</h4></div>
+                                <div class="content-author"><p>-Miles Kelly-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Once upon a time, a shoemaker and his wife had the busiest shoe shop in town. Even the king himself had been known to visit from time to time. But the shoemaker's shoes went out of fashion and he grew poor. One evening, he only had enough leather left to make one more pair. "I'll sew this together in the morning," he told his wife. "Once these shoes are made and sold,...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Read more...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="princessanddragon.jpg"></div>
+                                <div class="content-title"><h4>The Princess and the Dragon</h4></div>
+                                <div class="content-author"><p>-Miles Kelly-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>There once lived a young princess called Charlotte. Princess Charlote preferred being called Charlie. She looked like a princess, but she didn't behave like one! Charlie didn't like dresses or dancing, and she didn't want to ever mary a prince. Charlie's father, the king, was hoping to find a new queen, so there were often royal parties at the palace. "Do try to behave like...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Read more...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="aladdin.jpg"></div>
+                                <div class="content-title"><h4>Aladdin</h4></div>
+                                <div class="content-author"><p>-Miles Kelly-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Once upon a time, a boy called Aladdin lived in a land called China. One day a strange man arrived at Aladdin's house. "I am your long-lost uncle," he said. He asked Aladdin to help him find some treasure. However, the man was really an evil wizard. He took Aladdin to a dark cave and told him to find a gold lamp that lay inside. The wizard could only have the lamp if...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Read more...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="snowwhite.jpg"></div>
+                                <div class="content-title"><h4>Snow White and the Seven Dwarfs</h4></div>
+                                <div class="content-author"><p>-Marks & Spencer-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Long ago, there was a girl called Snow White. Snow White was pretty. She lived with her father, the king, and her stepmother, the queen. The queen was pretty. But not as pretty as Snow White. The queen had a magic mirror. She looked in her magic mirror. "Who is the fairest?" said the queen. "Snow White," said the magic mirror. The queen was cross. She wanted to be the...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Read more...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="beautyandthebeast.jpg"></div>
+                                <div class="content-title"><h4>Beauty and the Beast</h4></div>
+                                <div class="content-author"><p>-Miles Kelly-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Once upon a time, a wealthy merchant lived in fine house with his daughter. She was clever and kind and she loved to read. Everybody called her Beauty. But one day their luck changed. Their fine house was destroyed in a fire. Then they heard that their trading ship had been wrecked at sea. Beauty and her father had to move to an old cottage in the middle of a deep, dark forest. Beauty had to work hard to...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Read more...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="snowqueen.jpg"></div>
+                                <div class="content-title"><h4>The Snow Queen</h4></div>
+                                <div class="content-author"><p>-Miles Kelly-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>There were once two best friends, Gerda and Kay. They told each other everything, and everywhere they went, they went together. Gerda and Kay loved playing outside in spring, in summer, and in autumn. But winter was their favourite season. Grandmother told the best stories during the cold evenings. One night, the story was about the Snow Queen. "The Snow Queen lives in a huge snow palace," said Grandmother. "Her enchanted snow..."</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Read more...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="Rapunzel.jpg"></div>
+                                <div class="content-title"><h4>Rapunzel</h4></div>
+                                <div class="content-author"><p>-Miles Kelly-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Once there was a man and a woman who lived in a lovely cottage. It was perfect, except for one thing... their neighbour was a powerful witch. One day the couple found out that they were going to have a baby. They set to work to get the nursery ready. The room had a view of the witch's splendid garden. One day the woman saw the most delicious-looking lettuce growing in the witch's garden. It looked so fresh and green that she longed to...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Read more...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="Grumpycat.jpg"></div>
+                                <div class="content-title"><h4>Grumpy Cat</h4></div>
+                                <div class="content-author"><p>-Britta Teckentrup-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Once there was a cat who lived all alone. He ate on his own. He slept on his own. He spent every day alone. He would sit between the rubbish bins and look very, very grumpy. At night, other cats in the neighbourhood would meet and play together. Cat wanted to join in, but he just didn't know how. The other cats didn't ask him because they thought he was a grumpy cat. But really - he was a lonely cat. One night everything changed. There was...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Read more...</a></div>                        
+                        </div>
+                        <div class="content">
+                            <div class="content-icon">
+                                <div class="content-image"><img src="Duck.jpg"></div>
+                                <div class="content-title"><h4>Duck</h4></div>
+                                <div class="content-author"><p>-Randy Cecil-</p></div>
+                            </div>
+                            <div class="txt-contents"><p>Duck was a merry-go-round animal who longed to fly. She knew her carved wooden wings were not made for flying. But she couldn't stop thinking about it, even when the merry-go-round was whirling. At night, after the crowds had gone home and the fairground was quiet, Duck would leave her place on the merry-go-round. She loved to watced real ducks soar across the sky. She would lie down on the cobblestones and look up at the stars. She wondered...</p></div>
+                            <div class="selengkapnya"><a href="#" class="btn-selengkapnya">Read more...</a></div>                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="message-wrapper">
+                <div class="container">
+                    <div class="heading">
+                        <h2>Mau Mendongeng Apa Hari Ini?</h2>
+                    </div>
+                    <div class="copy-heading">
+                        <h3>Cari Judul Dongeng</h3>
+                        <input type="text" name="" id="">
+                        <input class="contact-submit" type="submit" value="search">
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer>
+            <div class="footer-content">
+              <h1>Dongeng Online</h1>
+              <p>&copy 2021 Powered by A11</p>
+              <div class="footer-list">
+                <ul>
+                  <li><a href="#tentang" id="tentang">Tentang Kami</a></li>
+                  <li><a href="#hubungi">Hubungi Kami</a></li>
+                  <li><a href="#">Layanan</a></li>
+                  <li><a href="#">Tanggapan</a></li>
+                </ul>
+              </div>
+            </div>
+          </footer>
+    </body>
+</html>
