@@ -1,0 +1,146 @@
+
+@media all and (max-width: 1000px) {
+  .logo{
+    height: 72px;
+    width: 63px;
+    margin-top: 35px;
+  }
+
+  .content {
+    width: 70%;
+  }
+  
+  .header-right{
+    margin-right: 220px;
+  }
+
+  .header-right a{
+    padding: 2px 15px;
+  }
+
+  .header-center h1{
+    font-size: 25px;
+    margin-top: 25px;
+  }
+  .kotak{
+    width: 79%;
+    text-align: center;
+  }
+
+  .btn-wrapper{
+    margin-right: 18%;
+  }
+
+  .copy-heading1 h3{
+    width: 25%;
+  }
+
+  .copy-heading2 h3{
+    width: 25%;
+    margin-top: 2840px;
+  }
+
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+  
+  .heading h2 {
+    font-size: 20px;
+    width: 50%;
+  }
+
+  .heading{
+    margin-left: 23%;
+  }
+  .i-contents, .e-contents{
+    width: 100%;
+    margin-left: 70px;
+  }
+
+  .content-wrapper{
+    height: 5900px;
+  }
+
+  .selengkapnya{
+    margin-right: 550px;
+  }
+
+  .copy-heading{
+    margin-right: 15%;
+  }
+}
+
+
+@media all and (max-width: 670px) {
+  .content {
+    width: 100%;
+  }
+  .kotak{
+    width: 82%;
+    text-align: center;
+  }
+  .top-wrapper {
+    padding: 180px 0 120px 0;
+    background-image: url("horse.jpg");
+    background-size: cover;
+    color: rgb(5, 5, 5);
+    text-align: center;      
+    width: 151%; 
+  }
+  .content-title, .content-author, .txt-contents{
+    width: 72%;
+  }
+  .heading h2{
+    width: 50%;
+  }
+  .copy-heading1 h3{
+    width: 25%;
+  }
+
+  .copy-heading2 h3{
+    width: 25%;
+    margin-top: 2840px;
+  }
+  footer {
+    text-align: center;
+  }
+  
+  .btn-wrapper{
+    text-align: center;
+  }
+  
+  .facebook {
+    margin-bottom: 10px;
+  }
+  
+  .top-wrapper {
+    text-align: left;
+  }
+  
+  .header-right{
+    margin-right: 220px;
+  }
+
+  .header-right a{
+    padding: 2px 15px;
+  }
+
+  .menu-icon{
+    display: block;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .content-wrapper, .message-wrapper, .footer-content{
+    background-size: 100%;
+    width: 150%;
+  }
+}
