@@ -1,0 +1,297 @@
+.logo {
+    width:84px;  
+    height:95px;  
+    margin-top: 20px;
+    margin-left: 20px;
+}
+header{
+ height: 65px;
+ width: 100%;
+ background-color: rgb(78, 163, 138);   
+ position: fixed;
+ top: 0;
+ z-index: 10;
+}
+
+.header-left{
+    float:left;  
+    margin-top: -40px;  
+}
+.header-center {
+    float: left;
+    text-align: center;
+}
+.header-right {
+    float: right;
+    margin-right: -25px;
+}
+.header-right a:hover {
+    background-color: rgb(172, 190, 184,0.5);
+}
+.header-right a {
+    line-height: 65px;
+    padding: 0 25px;
+    color: white;
+    display: block;
+    float: left;
+    transition: all 0.5s;
+}
+body {
+    margin: 0;
+    font-family: "Lucida Grande";
+    cursor: url("cewek.ani");
+  }
+  
+  a {
+    text-decoration: none;
+  }
+    .container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+    
+  }
+  .kotak{
+    background-color: aquamarine;
+    padding: 10px;
+    opacity: 0.7;
+    border-radius: 10px;
+    cursor: url("Butterfly.ani");
+  }
+    .top-wrapper {
+    padding: 180px 0 120px 0;
+    background-image: url("horse.jpg");
+    background-size: cover;
+    color: rgb(5, 5, 5);
+    text-align: center;       
+  }
+    .top-wrapper h1 {
+    opacity: 0.7;
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .top-wrapper p {
+    opacity: 0.7;
+    margin-bottom: 5px;
+  }
+  .btn-wrapper {
+      margin: 20px 0;
+  }
+  .btn-wrapper p {
+      margin: 10px 0;
+  }
+  .signup {
+      background-color: rgb(10, 202, 113);
+  }
+  .facebook {
+      background-color: rgb(67, 70, 245);
+      margin-right: 10px;      
+  }
+  .twitter {
+      background-color: rgb(70, 126, 211);
+  }
+  .btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;    
+  }
+  .btn:hover {
+      opacity: 1;
+  }
+  .fa {
+      margin-right: 5px;
+  }
+  body {
+    margin: 0;
+    font-family: "Lucida Grande";
+}
+a {
+    text-decoration: none;
+}
+.container-main {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+    
+}
+.content-wrapper {
+    height: 3350px;
+    padding-bottom: 80px;
+    background-color: rgb(192, 218, 209);
+    text-align: left;
+    margin-bottom: 0;
+    background-image: url(a-book-gd9184b9db_1920.jpg);
+    background-size: 100%;
+    color: rgb(68, 68, 66);
+}
+.heading h2 {
+    font-weight: normal;
+    background-color: cadetblue;
+    height: 55px;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+    padding-top: 20px;  
+    color: white;
+    box-shadow: 2px 3px 15px 5px yellow;
+    border-radius: 40px;
+}
+.copy-heading1 h3 {
+    font-weight: normal;
+    background-color: rgb(134, 120, 115);
+    height: 35px;
+    width: 99%;
+    padding: 15px 0 0 15px;
+    margin-top: 0;
+    color: white;
+}
+.i-content {
+    height: 1000px;
+    padding-bottom: 80px;
+    text-align: center;
+    margin-bottom: 0;
+    
+}
+
+.i-contents, .e-contents{
+    margin-right: -100px;
+}
+
+.content {
+    width: 45%;
+    float: left;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+.content-icon {
+    margin-top: 30px;   
+}
+.content-image img:hover{
+    transform: rotateY(360deg);
+}
+.content-image img{
+    transition: transform 2s;
+}
+.content-image img {
+    height: 150px;
+    width: 150px;
+    float: left;   
+    padding-right: 10px;
+    cursor: url("bintang.ani");
+}
+.content-title h4 {
+    display: block;
+    margin: 0;
+    background-color: yellow;
+    text-align: center;
+}
+.content-author p {
+    margin-top: 0;
+    background-color: yellow;
+    text-align: center;
+}
+.txt-contents p, .selengkapnya a{
+    font-size: small;
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding: 5px;
+}
+.selengkapnya{
+    margin-right: 250px;
+    padding: 5px;
+    margin-left: 155px;
+    text-decoration: underline;
+    color: blue;
+}
+.copy-heading2 h3 {
+    font-weight: normal;
+    background-color: rgb(134, 120, 115);
+    height: 35px;
+    width: 99%;
+    padding: 15px 0 0 15px;
+    margin-top: 1600px;
+    text-align: left;
+    color: white;
+}
+.message-wrapper {
+    height: 200px;
+    padding-bottom: 50px;
+    background-color: rgb(192, 218, 209, 0.5);
+    text-align: center;
+    margin-top: 20px;
+    background-image: url(photoshop-g50c15bfa8_1920.jpg);
+    background-size: cover;
+    top: 0;
+}
+.heading1 h2 {
+    font-weight: normal;
+    background-color: cadetblue;
+    height: 55px;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+    padding-top: 20px;  
+}
+.copy-heading {
+    color: blanchedalmond;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: white;
+}
+.main {
+    padding: 10px;
+}
+
+.footer-list {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+}
+.footer-content {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    background:#f0f0f0;
+}
+.footer-content h1 {
+    color: black;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 0px;
+    text-shadow: 5px 5px 5px grey;
+}
+.footer-content p {
+    color: black;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.footer-content ul {
+    margin: 0 auto;
+    padding: 1em 0;
+    text-align: center;
+    width: 100%;
+}
+.footer-content li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0;
+}
+.footer-content li a {
+    color: #333;
+    display: inline-block;
+    font-style: normal !important;
+    margin: 10px;
+    padding: 0;
+    text-decoration: none;
+    font-size: small;
+}
